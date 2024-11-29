@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+} 
+
+.bg-color{
+    background-image: linear-gradient(to right, #739FE8, #4F18CA)
+}
+
+.bg-color2{
+    background-image: linear-gradient(to right,#7E08C7, #04016C, #7E08C7)
+}
